@@ -23,7 +23,7 @@ XIAO ESP32S3 Sense を使用した、日時指定検索・グループ対応型 
 ## 🛠 技術スタック (Tech Stack)
 ### Hardware
 - **XIAO ESP32S3 Sense** (Camera, Wi-Fi)
-- Arduino IDE (C++)
+- ESPIDF
 
 ### Backend (AWS Serverless)
 - **AWS Lambda** (Python 3.x)
